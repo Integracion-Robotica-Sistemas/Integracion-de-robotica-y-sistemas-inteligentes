@@ -15,6 +15,7 @@ Para poder hacer push requests, es necesario tener permiso, y realizar la creaci
 
 * Escribir en terminal `eval "$(ssh-agent -s)"` para inicializar el agente
 * Escribir en terminal `ssh-add ~/.ssh/id_ed25519` para agregar la key al agente
+
 Se pueden ayudar de las siguientes referencias:
 * https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 * https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
