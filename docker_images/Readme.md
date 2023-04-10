@@ -18,7 +18,7 @@ Esto es para cambios de archivos locales etc. No para los cambios que se van a e
 
 
 
-Para hacer cambios:
+### Para hacer cambios:
 * ```docker run -p 6080:80 -v /dev/shm:/dev/shm a00829053/ubuntu18_ros:v1.x```
 * Realizar cambios ahi
 * ```docker ps```
